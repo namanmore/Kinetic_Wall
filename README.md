@@ -1,5 +1,5 @@
 # Kinetic-Wall
-All the supporting codes for Kinectic Wall project
+All the supporting codes for Kinetic Wall project
 
 This Repository conatins scripts that will make the Kinetic-Wall work
 
